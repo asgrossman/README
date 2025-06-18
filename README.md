@@ -8,7 +8,7 @@ Inspiring Data Analysts
 ---
 
 ## 👩‍💻 Professional Summary
-Detail-oriented Data Analyst with expertise in Microsoft Power, Python, SQL, and Microsoft Fabric. Passionate about extracting meaning from complex data sets and delivering actionable insights to drive strategic business decisions. Experienced in healthcare data analytics and car sales projects. Dedicated to continuous learning and professional growth.
+Detail-oriented Data Analyst with expertise in Microsoft Power, Python, SQL, and Microsoft Fabric. Passionate about extracting meaning from complex data sets and delivering actionable insights to drive strategic business decisions. Experienced in healthcare data analytics and car sales projects. Dedicated to continuous learning and professional growth. Newfound passion for creating Data-driven scalable models by using secure, scalable reports and models with highly resourced data hierarchies by creating aggregations, Dax, and star schemas to model data for key insights and Data Anomalies for companies’ future growth and profits. Certified in data analytics and visualization (UT Arlington, IBM, Google). 20+ years’ experience in education and project leadership, driving compliance and data-driven decision making. 
 
 ---
 
