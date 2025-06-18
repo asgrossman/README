@@ -26,7 +26,7 @@ Detail-oriented Data Analyst with expertise in Microsoft Power, Python, SQL, and
 - **Car Sales Analytics**  
   Built predictive models and interactive dashboards to forecast sales and optimize inventory.
   Download here: https://drive.google.com/drive/folders/1mzommJaksIbzodbrLS3wDwcCny26K-tU?usp=drive_link
-  **Fatality Accidents*
+- **Fatality Accidents**
   Excel Project Data analysis: Download here: https://drive.google.com/drive/folders/1uZnEtQXOtHziynXv7nLnskmZkUkd_NaV?usp=drive_link 
 
 ---
