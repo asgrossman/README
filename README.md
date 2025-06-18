@@ -22,9 +22,12 @@ Detail-oriented Data Analyst with expertise in Microsoft Power, Python, SQL, and
 
 ## 🏆 Featured Projects
 - **Healthcare Data Analysis**  
-  Leveraged SQL and Power BI to identify trends and support data-driven decision making for healthcare clients.
+  Leveraged SQL and Power BI to identify trends and support data-driven decision making for healthcare clients. Dowload PBIX file here: https://drive.google.com/drive/folders/16vlxG_Yi1s7Y9HNtYMcXRqblb8k7fH54?usp=drive_link  
 - **Car Sales Analytics**  
   Built predictive models and interactive dashboards to forecast sales and optimize inventory.
+  Download here: https://drive.google.com/drive/folders/1mzommJaksIbzodbrLS3wDwcCny26K-tU?usp=drive_link
+  **Fatality Accidents*
+  Excel Project Data analysis: Download here: https://drive.google.com/drive/folders/1uZnEtQXOtHziynXv7nLnskmZkUkd_NaV?usp=drive_link 
 
 ---
 
